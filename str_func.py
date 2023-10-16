@@ -5,4 +5,5 @@ def str_func(text):
 
 def uppercase(text):
     """Делает буквы заглавными дада"""
+    fix = 'Имитация исправления бага'
     return text.upper()
